@@ -1,0 +1,12 @@
+.main {
+    min-height: 600px;
+    background-image: url('../image/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(0.8) drop-shadow(0 0 0 black);
+}
+
+section.fixed-top {
+    right:auto;
+    left: auto;
+}
