@@ -8,3 +8,20 @@
 .lt-s-2 {
     letter-spacing: 2px;
 }
+
+.navbar-brands {
+    float: left !important;
+}
+
+@media(max-width: 768px) {
+    .navbar-brands {
+        margin: 0 auto;
+        float: none !important;
+        text-align: center;
+        display: block !important;
+    }
+
+    .navigasi {
+        display: none;
+    }
+}
