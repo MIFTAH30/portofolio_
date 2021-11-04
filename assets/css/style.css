@@ -4,3 +4,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.lt-s-2 {
+    letter-spacing: 2px;
+}
