@@ -1,3 +1,7 @@
+body {
+    scroll-behavior: smooth;
+}
+
 .main {
     min-height: 600px;
     background-image: url('../image/background.jpg');
@@ -11,6 +15,18 @@
 
 .navbar-brands {
     float: left !important;
+}
+
+.paragraf {
+    text-indent: 50px;
+}
+
+.opportunity .card-header{
+    min-height: 75%;
+}
+
+.bg-dark {
+    background-color: #131313!important;
 }
 
 @media(max-width: 768px) {
