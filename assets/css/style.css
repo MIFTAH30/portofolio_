@@ -1,5 +1,6 @@
-body {
+html {
     scroll-behavior: smooth;
+    transition: all 1.5s ease;
 }
 
 .main {
